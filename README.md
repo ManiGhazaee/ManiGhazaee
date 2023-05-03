@@ -2,7 +2,9 @@
 
 ### Hi, I'm Mani Ghazaee
 
-18yo self-taught programmer with 1 year of experience in JS, HTML, CSS
+18yo self-taught programmer with 1 year of experience in JS, HTML, CSS 
+<br>
+and many years of experience in Design and Illustrator
 <br>
 <br>
 <div align="center">
