@@ -19,4 +19,4 @@ Design and Illustrator
 ### Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mani-ghazaee)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/mani_msgh/)
+<!--- [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/mani_msgh/) --->
