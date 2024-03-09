@@ -1,7 +1,5 @@
 <div align="center">
   
-Font-end developer exploring back-end
-  
 <div align="center">
   
 <br>
